@@ -1,0 +1,15 @@
+﻿@using T1807E_HelloMVC.Models
+@model Member
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>List</h2>
+@{ Html.BeginForm("Store", "Member");}
+    @Html.TextBoxFor(model => model.Id)
+    @Html.TextBoxFor( model => model.Email)
+    @Html.TextBoxFor(model => model.Password)
+    <input type="submit" value="Submit" />
+@{Html.EndForm();}
+
+

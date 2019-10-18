@@ -1,0 +1,17 @@
+﻿@using T1807E_HelloMVC.Models
+
+@{
+    ViewBag.Title = "Store";
+    var member = ViewData["member"] as Member;
+}
+
+<h2>Store</h2>
+<p>
+    @member.Id
+</p>
+<p>
+    @member.Email
+</p>
+<p>
+    @member.Password
+</p>
