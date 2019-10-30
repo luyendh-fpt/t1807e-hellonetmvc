@@ -14,5 +14,6 @@ namespace T1807E_HelloMVC.Models
 
         }
         public DbSet<Member> Members { get; set; }
+        public DbSet<Song> Songs { get; set; }
     }
 }

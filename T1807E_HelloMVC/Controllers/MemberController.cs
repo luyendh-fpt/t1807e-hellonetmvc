@@ -59,7 +59,10 @@ namespace T1807E_HelloMVC.Controllers
             existMember.Email = updateMember.Email;
             existMember.Password = updateMember.Password;
             existMember.UpdatedAt = DateTimeOffset.Now.ToUnixTimeMilliseconds();
-            _myDbContext.Members.AddOrUpdate(existMember);
+            //updateMember.Id = existMember.Id;
+            //updateMember.CreatedAt = existMember.CreatedAt;
+            //updateMember.UpdatedAt = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+            _myDbContext.Members.AddOrUpdate(updateMember);
             _myDbContext.SaveChanges();
             return new JsonResult()
             {
