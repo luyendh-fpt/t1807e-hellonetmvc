@@ -168,6 +168,10 @@
     <Compile Include="Migrations\201910231336152_Initial.Designer.cs">
       <DependentUpon>201910231336152_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201910301224451_AddFieldToMember.cs" />
+    <Compile Include="Migrations\201910301224451_AddFieldToMember.Designer.cs">
+      <DependentUpon>201910301224451_AddFieldToMember.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Member.cs" />
     <Compile Include="Models\MyDbContext.cs" />
@@ -238,6 +242,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201910231336152_Initial.resx">
       <DependentUpon>201910231336152_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910301224451_AddFieldToMember.resx">
+      <DependentUpon>201910301224451_AddFieldToMember.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

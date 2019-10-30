@@ -96,3 +96,4 @@ C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Runti
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.Initial.resources
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csproj.GenerateResource.cache
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.AddFieldToMember.resources
