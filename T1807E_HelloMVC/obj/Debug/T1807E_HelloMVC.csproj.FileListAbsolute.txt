@@ -103,3 +103,7 @@ C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.pdb
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.AddSongTable.resources
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csprojAssemblyReference.cache
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Cors.dll
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.Cors.dll
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.Cors.xml
