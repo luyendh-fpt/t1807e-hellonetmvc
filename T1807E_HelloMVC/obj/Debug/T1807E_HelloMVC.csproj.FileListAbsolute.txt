@@ -1,3 +1,10 @@
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.Initial.resources
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.AddFieldToMember.resources
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.AddSongTable.resources
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.AddClassObject.resources
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.AddCustomerTable.resources
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csproj.GenerateResource.cache
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csproj.CoreCompileInputs.cache
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\T1807E_HelloMVC.dll.config
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\T1807E_HelloMVC.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\T1807E_HelloMVC.pdb
@@ -62,7 +69,9 @@ C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Net.H
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Numerics.Vectors.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Cors.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Helpers.dll
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.Cors.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.WebHost.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Mvc.dll
@@ -84,6 +93,7 @@ C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Numer
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.xml
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.Cors.xml
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.WebHost.xml
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Helpers.xml
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Mvc.xml
@@ -95,15 +105,9 @@ C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.W
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\Newtonsoft.Json.xml
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\Antlr3.Runtime.pdb
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.Initial.resources
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.AddFieldToMember.resources
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csproj.GenerateResource.cache
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csproj.CoreCompileInputs.cache
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csprojAssemblyReference.cache
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csproj.CopyComplete
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.dll
 C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.pdb
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.Migrations.AddSongTable.resources
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\obj\Debug\T1807E_HelloMVC.csprojAssemblyReference.cache
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Cors.dll
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.Cors.dll
-C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\System.Web.Http.Cors.xml
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\LinqKit.dll
+C:\Users\xuan hung\source\repos\T1807E_HelloMVC\T1807E_HelloMVC\bin\LinqKit.xml

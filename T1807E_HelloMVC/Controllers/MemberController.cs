@@ -23,6 +23,7 @@ namespace T1807E_HelloMVC.Controllers
         [HttpGet]
         public ActionResult List()
         {
+            var a = from s in _myDbContext.Members where s.Email == "alo" select s;
             return new JsonResult()
             {
                 Data = _myDbContext.Members.Where(member => member.Status != (int)Member.MemberStatus.Deleted),
