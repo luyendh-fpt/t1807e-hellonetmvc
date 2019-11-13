@@ -58,6 +58,30 @@ namespace T1807E_HelloMVC.Controllers
             var data = db.Customers.AsExpandable().Where(predicate).OrderByDescending(c => c.Age);
             return View(data);
         }
+        // GET: Customers
+        public ActionResult GetListAjax(String keyword, int? age)
+        {
+            var predicate = PredicateBuilder.New<Customer>(true);
+            if (!keyword.IsNullOrWhiteSpace())
+            {
+                Debug.WriteLine("keyword is okie");
+                predicate = predicate.Or(f => f.FullName.Contains(keyword));
+                predicate = predicate.Or(f => f.Phone.Contains(keyword));
+                predicate = predicate.Or(f => f.Email.Contains(keyword));
+                ViewBag.Keyword = keyword;
+            }
+
+            if (age > 0)
+            {
+                Debug.WriteLine("age is okie.");
+                predicate = predicate.Or(f => f.Age >= age);
+                ViewBag.Age = age;
+            }
+
+            var data = db.Customers.AsExpandable().Where(predicate).OrderByDescending(c => c.Age);
+            return View("_ListCustomer", data);
+        }
+
 
         // GET: Customers/Details/5
         public ActionResult Details(int? id)
