@@ -1,0 +1,55 @@
+﻿@model IEnumerable<T1807E_HelloMVC.Models.Customer>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@*<h2>Index</h2>
+    <div>
+        Age <input type="number" name="age" value="@ViewBag.Age" />
+        Keyword <input type="text" name="keyword" value="@ViewBag.Keyword" />
+        @Ajax.ActionLink("Search", "GetListAjax", "Customers",
+            new { keyword = , age = "bar1" },
+            new AjaxOptions
+            {
+                HttpMethod = "Post",
+                InsertionMode = InsertionMode.Replace,
+                LoadingElementId = "loading",
+                UpdateTargetId = "tableContent"
+            })
+    </div>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table id="tableContent">
+    </table>
+
+    <div id="loading" style="display:none">
+        Loading data...
+    </div>*@
+
+@using (Ajax.BeginForm("GetListAjax", "Customers",
+    new AjaxOptions
+    {
+        InsertionMode = InsertionMode.Replace,
+        HttpMethod = "POST",
+        OnFailure = "searchFailed",
+        LoadingElementId = "loading",
+        UpdateTargetId = "tableContent",
+    }))
+{
+    <div>
+        Keyword <input type="text" name="keyword"/>
+        Age <input type="number" name="age" />
+        <input type="Submit" value="Search" />
+    </div>
+    <div id="loading" style="display:none">
+        Loading data...
+    </div>
+}
+
+
+<table id="tableContent">
+</table>
+
+
